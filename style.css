@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+
+body {
+	font-family: 'Electrolize', sans-serif;
+	background: lightgrey;
+}
+
+.title {
+	text-align: center;
+	font-size: 8vw;
+	color: #FFFF33;
+}
